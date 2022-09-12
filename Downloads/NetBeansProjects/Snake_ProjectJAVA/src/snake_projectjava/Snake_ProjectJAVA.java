@@ -21,7 +21,7 @@ public class Snake_ProjectJAVA extends JFrame implements KeyListener, ActionList
     Snake snake;
     private int delay = 150;
        public Snake_ProjectJAVA() {
-    
+
        this.snake = new Snake(this);
        Timer t;
        t = new Timer(delay,this);

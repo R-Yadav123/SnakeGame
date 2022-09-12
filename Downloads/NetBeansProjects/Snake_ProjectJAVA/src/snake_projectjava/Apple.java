@@ -28,6 +28,7 @@ public class Apple extends TimerTask{
         snake = s;
     }
     public Apple() {
+     
        x = 25 * new Random().nextInt(20);
        y = 25 * new Random().nextInt(20);
     }

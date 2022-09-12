@@ -17,7 +17,6 @@ public class Rectangle {
     int y;
       
     public Rectangle(int x, int y) {
-        
         this.x = x;
         this.y = y;
     }

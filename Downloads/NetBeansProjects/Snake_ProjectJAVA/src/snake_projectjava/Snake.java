@@ -34,6 +34,7 @@ public class Snake extends JPanel{
     private Apple apple;
  
     public Snake(snake_projectjava.Snake_ProjectJAVA window) {
+
         this.window = window;
         this.body = new ArrayList<>();
         body.add(new Rectangle(start,start));
