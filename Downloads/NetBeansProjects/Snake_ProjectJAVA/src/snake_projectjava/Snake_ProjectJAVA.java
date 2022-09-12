@@ -13,10 +13,7 @@ import java.awt.event.KeyListener;
 import javax.swing.JFrame;
 import javax.swing.Timer;
 
-/**
- *
- * @author ishwaryadav
- */
+
 public class Snake_ProjectJAVA extends JFrame implements KeyListener, ActionListener {
     Snake snake;
     private int delay = 150;

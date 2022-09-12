@@ -5,10 +5,7 @@
  */
 package snake_projectjava;
 
-/**
- *
- * @author ishwaryadav
- */
+
 public class Rectangle {
     public static int width = 25;
     public static int height = 25;

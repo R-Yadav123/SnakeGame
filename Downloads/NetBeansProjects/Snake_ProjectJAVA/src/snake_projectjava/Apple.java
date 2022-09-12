@@ -8,10 +8,7 @@ package snake_projectjava;
 import java.util.Random;
 import java.util.TimerTask;
 
-/**
- *
- * @author ishwaryadav
- */
+
 public class Apple extends TimerTask{
     private int x;
     private int y;

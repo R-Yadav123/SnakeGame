@@ -14,10 +14,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-/**
- *
- * @author ishwaryadav
- */
+
 public class Snake extends JPanel{
     // r, g, b values for black
     private static final Color color = new Color(0,0,0);
