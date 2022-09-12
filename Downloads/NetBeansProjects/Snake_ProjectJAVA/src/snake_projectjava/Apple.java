@@ -18,7 +18,8 @@ public class Apple extends TimerTask{
     private Snake snake;
     
     public int getX() {
-        return x;
+         
+        return x;       
     }
     public int getY() {
         return y;

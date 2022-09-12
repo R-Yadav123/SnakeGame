@@ -43,6 +43,7 @@ public class Snake extends JPanel{
         body.add(new Rectangle(last_2.getX(), last_2.getY()));
         // game will start with snake moving with right arrow key
         setDirection("right");
+       
         
     }
     public void setDirection(String direction) {
